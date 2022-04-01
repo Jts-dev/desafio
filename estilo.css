@@ -1,0 +1,18 @@
+#NavBar {
+
+    width: calv(100vw-50px) ;
+    height: 10vh;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content:space-between;
+    align-items: center;
+    margin: 50px;
+}
+
+
+.NavBar-item{
+    font-size: 28px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
